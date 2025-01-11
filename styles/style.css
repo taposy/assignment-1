@@ -419,5 +419,26 @@ margin-top: 32px;
   justify-content: center;
   text-align: center;
   margin: 80px 160px;
-  height: 395px;
+  height: 300px;
+  padding: 30px;
+}
+.form-1{
+  width: 600px;
+  height: 40px;
+  color: rgba(14, 14, 14, 0.3);
+  border: none;
+  border-radius: 3px;
+  padding-left: 20px;
+}
+.btn-9{
+  color: white;
+  background-color: #006A50;
+  font-size: 15px;
+  padding: 10px;
+  border-radius:3px;
+  border: none;
+  height: 40px;
+}
+.div{
+  
 }

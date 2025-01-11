@@ -277,11 +277,10 @@
     font-size: 16px;
     color: rgba(14, 14, 14, 0.6);
 }
-section button:hover{
-    background-color:black;
-}
-header button:hover{
-  background-color: black;
+
+body button:hover{
+  background-color: gray;
+
 }
 /* section-2 */
 .des-7{
@@ -290,9 +289,10 @@ header button:hover{
   color: rgba(14, 14, 14, 0.7);
 }
 .des-8{
-  font-size: 16px;
+  font-size: 13px;
   color: rgba(14, 14, 14, 0.7);
-  line-height: 24px;
+  line-height: 20px;
+  margin-top: 32px;
 }
 .box1{
   display: flex;
@@ -349,4 +349,75 @@ header button:hover{
   margin-top: 32px;
   height: 400px;
   
+}
+.div-4{
+  text-align: center;
+  font-size: 16px;
+  
+}
+.btn-6{
+  border-radius: 16px;
+  padding: 25px;
+  border: .05px solid wheat;
+  background-color: #C6E4D6;
+  font-size: 25px;
+  color: rgba(14, 14, 14, 0.8);
+  font-weight: bold;
+}
+.btn-7{
+  border-radius: 16px;
+  padding: 25px;
+  border:.05px solid wheat;
+  font-size: 25px;
+  color: rgba(14, 14, 14, 0.8);
+  font-weight: bold;
+
+}
+.div-5{
+  text-align: center;
+  justify-content: space-between;
+}
+.div-main{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+.box-4{
+  color: rgba(14, 14, 14, 0.3);
+  font-size: 13px;
+  width: 600px;
+  height: 40px;
+  text-align: center;
+  border: none;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  background-color: beige;
+  box-shadow: 1px 2px solid grey;
+  border-radius: 2px;
+}
+.btn-8{
+  color: white;
+  background-color: #006A50;
+  font-size: 11px;
+  padding: 11px;
+  border-radius: 8px;
+  border: none;
+
+}
+.des-9{
+font-size: 12px;
+color: rgba(14, 14, 14, 0.7);
+line-height: 20px;
+margin-top: 32px;
+
+}
+.div-6{
+  background-color: #C6E4D6;
+  border-radius: 24px;
+  border: none;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin: 80px 160px;
+  height: 395px;
 }

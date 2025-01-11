@@ -439,6 +439,13 @@ margin-top: 32px;
   border: none;
   height: 40px;
 }
-.div{
-  
+.div-7{
+  text-align: center;
+
+}
+.tapo{
+  justify-content: space-between;
+  height: 20px;
+  padding: 10px;
+
 }

@@ -199,7 +199,7 @@
     border-radius: 8px;
     padding: 10px;
     font-size: 11px;
-    
+
     border: none;
     color: white;
 }
@@ -261,7 +261,7 @@
 .div-parent{
     display: flex;
     justify-content: space-around;
-  /* justify-content: space-between; */
+
 }
 .doctor{
     background-image: url("../assets/quote-bg.png");
@@ -296,6 +296,7 @@ body button:hover{
 
 }
 /* section-2 */
+
 .des-7{
   font-size: 16px;
   line-height: 24px;
@@ -310,7 +311,6 @@ body button:hover{
 .box1{
   display: flex;
   justify-content: space-around;
-  /* border: 1px solid gray; */
   align-items: center;
   background-color: rgba(84, 0, 0, 0.097);
   border-radius: 24px;
@@ -318,6 +318,9 @@ body button:hover{
   height: 400px;
   
 
+}
+.box1-left{
+  border-radius: 50px;
 }
 .section-2{
   margin: 100px 160px;
@@ -338,20 +341,18 @@ body button:hover{
 .box2{
   display: flex;
   justify-content: space-around;
-  /* border: 1px solid gray; */
   align-items: center;
   background-color: rgba(84, 0, 0, 0.097);
   border-radius: 24px;
   margin-top: 32px;
   height: 400px;
-  padding: 40px;
+  /* padding: 40px; */
   
 
 }
 .box3{
   display: flex;
   justify-content: space-around;
-  /* border: 1px solid gray; */
   align-items: center;
   background-color: rgba(84, 0, 0, 0.097);
   border-radius: 24px;
@@ -436,7 +437,7 @@ margin-top: 32px;
   height: 40px;
   color: rgba(14, 14, 14, 0.3);
   border: none;
-  border-radius: 3px;
+  border-radius: 5px 0 0 5px;
   padding-left: 20px;
 }
 .btn-9{
@@ -444,7 +445,7 @@ margin-top: 32px;
   background-color: #006A50;
   font-size: 15px;
   padding: 10px;
-  border-radius:3px;
+  border-radius:0 7px 7px 0;
   border: none;
   height: 40px;
 }
